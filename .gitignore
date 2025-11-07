@@ -1,0 +1,5 @@
+checkpoints/
+.DS_Store
+.claude/
+.env
+ipynb_checkpoints/
