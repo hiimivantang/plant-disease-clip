@@ -326,16 +326,6 @@ To contribute:
 - Plant disease dataset contributors
 - Kaggle plant disease datasets
 
-## Citation
-
-If you use this project in your research, please cite:
-```
-[Add citation information here]
-```
-
-## Contact
-
-[Add contact information here]
 
 ## References
 
